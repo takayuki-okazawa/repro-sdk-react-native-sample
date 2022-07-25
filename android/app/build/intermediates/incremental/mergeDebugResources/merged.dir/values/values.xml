@@ -533,7 +533,13 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="default_web_client_id" translatable="false">816137118864-6ghuarae42hchd809c3li74gmgkla07e.apps.googleusercontent.com</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="gcm_defaultSenderId" translatable="false">816137118864</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEqAYM8pW_X-F-BqWDM70nEKw8ZAiI75I</string>
+    <string name="google_app_id" translatable="false">1:816137118864:android:91403311a77da0b6f12415</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEqAYM8pW_X-F-BqWDM70nEKw8ZAiI75I</string>
+    <string name="google_storage_bucket" translatable="false">test-app-android-4c9bf.appspot.com</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="image_description" translatable="false">Image</string>
     <string name="imagebutton_description" translatable="false">Button, Image</string>
@@ -543,6 +549,7 @@
     <string name="menubar_description" translatable="false">Menu Bar</string>
     <string name="menuitem_description" translatable="false">Menu Item</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
+    <string name="project_id" translatable="false">test-app-android-4c9bf</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>

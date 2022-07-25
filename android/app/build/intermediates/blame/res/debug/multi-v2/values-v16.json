@@ -4,7 +4,7 @@
             "outputFile": "/Users/takayuki/src/repro-sdk-react-native-sample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
