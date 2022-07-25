@@ -49,6 +49,13 @@ async function requestUserPermission() {
   }
 }
 
+//トークンの取得
+async function getMessagingToken() {
+  const _token = await messaging().getToken();
+  console.log('token=' + JSON.stringify(token));
+  return _token;
+}
+
 console.log('Hello hoge');
 Repro.track("user review hoge", { rating: 3 })
 Repro.getDeviceID((error, deviceID) => {
@@ -67,10 +74,8 @@ if (firebase.apps.length === 0) {
 }
 
 requestUserPermission();
+const token = getMessagingToken();
 
-//トークンの取得
-const token: string = messaging().getToken();//await
-console.log('token=' + JSON.stringify(token));
 
 //トークンリフレッシュ
 // messaging().onTokenRefresh((token: string) => {
@@ -80,18 +85,25 @@ console.log('token=' + JSON.stringify(token));
 const unsubscribeMessage = messaging().onMessage((
   message
 ) => {
-  console.log('起動中メッセージ受信コールバック : ' + JSON.stringify(message))//呼ばれる
+  console.log('起動中メッセージ受信 : ' + JSON.stringify(message))//呼ばれる
 });
 
 // プッシュ通知をタップしてバックグラウンドから復帰した際の処理
 const unsubscribeNotificationOpenedApp = messaging().onNotificationOpenedApp((
   message
 ) => {
-  console.log('バックグラウンド中メッセージ受信コールバック')
+  console.log('バックグラウンド中メッセージ受信')//呼ばれない
+});
+
+// 通知開封？
+messaging().onNotificationOpenedApp((
+  message
+) => {
+  console.log('通知開封 : ' + JSON.stringify(message))//呼ばれない
 });
 
 messaging().setBackgroundMessageHandler(async remoteMessage => {
-  console.log('ここがsetBackgroundMessageHandlerです', remoteMessage);
+  console.log('ここがsetBackgroundMessageHandlerです', remoteMessage);//呼ばれない
 });
 
 /************************************
