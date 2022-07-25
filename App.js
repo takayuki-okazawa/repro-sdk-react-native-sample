@@ -57,11 +57,11 @@ Repro.getDeviceID((error, deviceID) => {
 
 if (firebase.apps.length === 0) {
   const instance = firebase.initializeApp({
-    appId: '1:816137118864:android:91403311a77da0b6f12415',
+    appId: '1:816137118864:android:c0b3c299f6d61d0cf12415',
     messagingSenderId: '816137118864',
     projectId: 'test-app-android-4c9bf',
     storageBucket: '',
-    apiKey: 'repro-react-native-sample',
+    apiKey: 'AIzaSyBEqAYM8pW_X-F-BqWDM70nEKw8ZAiI75I',//repro-react-native-sample
     databaseURL: ''
   });
 }

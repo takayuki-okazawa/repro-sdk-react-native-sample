@@ -94,10 +94,10 @@
 
         <meta-data
             android:name="firebase_messaging_auto_init_enabled"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
-            android:value="" />
+            android:value="high-priority" />
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/white" />
@@ -139,6 +139,15 @@
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
+
+        <activity
+            android:name="io.repro.android.notification.IntentHandler"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="io.repro.android.notification.IntentHandler.START_ACTIVITY" />
+            </intent-filter>
+        </activity>
+
         <service
             android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
             android:exported="false" >
@@ -202,14 +211,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
-        <activity
-            android:name="io.repro.android.notification.IntentHandler"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="io.repro.android.notification.IntentHandler.START_ACTIVITY" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>

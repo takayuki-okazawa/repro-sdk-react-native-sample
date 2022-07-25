@@ -14,8 +14,9 @@ MERGED from [:react-native-repro] /Users/takayuki/src/repro-sdk-react-native-sam
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:17:1-62:12
 MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:17:1-62:12
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:2:1-22:12
 MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:15:1-41:12
@@ -81,7 +82,6 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:2:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/07574f26778da5532163f395b00e7bbc/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -110,6 +110,8 @@ MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8312474f9a6f0ba3793aed7d597ee9cf/flipper-0.54.0/AndroidManifest.xml:15:5-67
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:22:5-67
@@ -124,8 +126,6 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:23:5-67
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -150,10 +150,12 @@ MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-rea
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
-MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
 MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
 MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
@@ -196,8 +198,6 @@ MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms
 MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
@@ -314,10 +314,12 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayu
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
@@ -448,8 +450,6 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/07574f26778da5532163f395b00e7bbc/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/07574f26778da5532163f395b00e7bbc/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -486,6 +486,8 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:25:5-79
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
+MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
@@ -502,8 +504,6 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:24:5-79
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
-MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
 	android:name
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
@@ -527,15 +527,15 @@ ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-reac
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
 ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
 meta-data#firebase_messaging_auto_init_enabled
-ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:37
 	android:value
-		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-34
 	android:name
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:45
 	android:value
-		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-42
 	android:name
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
 meta-data#com.google.firebase.messaging.default_notification_color
@@ -594,6 +594,18 @@ ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.grad
 		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:58:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:57:17-119
+activity#io.repro.android.notification.IntentHandler
+ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:13:9-19:20
+	android:exported
+		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:14:13-71
+intent-filter#action:name:io.repro.android.notification.IntentHandler.START_ACTIVITY
+ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:16:13-18:29
+action#io.repro.android.notification.IntentHandler.START_ACTIVITY
+ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:17-101
+	android:name
+		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:25-98
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
 ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:28:13-30:85
 	android:value
@@ -728,15 +740,3 @@ ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuk
 		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
-activity#io.repro.android.notification.IntentHandler
-ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:13:9-19:20
-	android:exported
-		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:15:13-37
-	android:name
-		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:14:13-71
-intent-filter#action:name:io.repro.android.notification.IntentHandler.START_ACTIVITY
-ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:16:13-18:29
-action#io.repro.android.notification.IntentHandler.START_ACTIVITY
-ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:17-101
-	android:name
-		ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:25-98
