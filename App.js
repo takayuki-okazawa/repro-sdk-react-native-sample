@@ -35,6 +35,17 @@ import messaging from '@react-native-firebase/messaging';
 //   FirebaseMessagingTypes.RemoteMessage 
 // } from '@react-native-firebase/messaging';
 
+async function requestUserPermission() {
+  const authStatus = await messaging().requestPermission();
+  const enabled =
+    authStatus === messaging.AuthorizationStatus.AUTHORIZED ||
+    authStatus === messaging.AuthorizationStatus.PROVISIONAL;
+
+  if (enabled) {
+    console.log('Authorization status:', authStatus);
+  }
+}
+
 console.log('Hello hoge');
 Repro.track("user review hoge", { rating: 3 })
 Repro.getDeviceID((error, deviceID) => {
@@ -51,11 +62,8 @@ if (firebase.apps.length === 0) {
     databaseURL: ''
   });
 }
-const authStatus = messaging().requestPermission();//await
-const enabled =
-  authStatus === messaging.AuthorizationStatus.AUTHORIZED ||
-  authStatus === messaging.AuthorizationStatus.PROVISIONAL;
-if(enabled) console.log("認証OK"); 
+
+requestUserPermission();
 
 //トークンの取得
 const token: string = messaging().getToken();//await

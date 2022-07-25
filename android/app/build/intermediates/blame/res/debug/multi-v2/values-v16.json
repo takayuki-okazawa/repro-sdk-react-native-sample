@@ -4,6 +4,16 @@
             "outputFile": "/Users/takayuki/src/repro-sdk-react-native-sample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
+                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
                     "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

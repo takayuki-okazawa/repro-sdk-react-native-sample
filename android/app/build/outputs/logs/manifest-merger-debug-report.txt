@@ -14,9 +14,15 @@ MERGED from [:react-native-repro] /Users/takayuki/src/repro-sdk-react-native-sam
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b717e19f2e6a1a908c59c701fc7a5c12/firebase-analytics-18.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:17:1-45:12
-MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:17:1-62:12
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/02615a38ba0d2e599f9e866f87c02212/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c4b4583af753f8e1b807084037d7124/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73aaaa039eef78637adfe84b9a31488f/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -33,31 +39,29 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/takayuki/.grad
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/87a9238b83f8bbb97649d72ed3d400ec/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da5c77205ee33fe70ee7179b4b02428b/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56807a07d2f7338c8b33d5c24e98543/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ce7c1e2b7b44d5064cc8faf8c4b87d80/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c5da73b00b6960e4305b61d928200c2a/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1bc4430851a2a8a47a8d49e825eb3b94/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e5250e7b6bd19dd5b6d3ecb89962c98/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/43f886d41c08fe4dc0bdbfdc40b61bb1/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a012ee35ff5227f2400a120cb7e165c6/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/de3ae3aeb5822f60324e2f8e32ddfcfb/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d63ed68ddea7c9aebf5af7c6324c83ba/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da2c52bcf1417656174979d34d2e44fa/play-services-measurement-base-18.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/70f75c68d515864e1be2a97492ef55dd/play-services-measurement-sdk-21.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b0213f2c3ea73f05db7fbf91270ab900/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/aba1fd20a01a75aca04172dc3cd24dd7/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/95cb69e4a792e00196971635239ed420/firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5895c500f7c9938c69fecc1b581415ab/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d2f6eddaf546b0ee506217b11a11e854/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/41c36304296adcad8eb97aca597f532b/play-services-measurement-base-21.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/92e1ee2a763d56a2ee5e9d3b0e35c606/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/e289e635fef2f04da5467be113dfe4b7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3ac50c4778df412aaad36935ff6abf00/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -66,23 +70,17 @@ MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/takayuki/.gradle/caches/
 MERGED from [androidx.activity:activity:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5333a3137ea1a31f08149f742621cb29/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fe426716a08ee3a0b8844fdc658bd87c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/719a016b5d66f1aa7f0c590da2257157/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/60daee853bd9cd43df333f837a3c5492/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8759a21431d75f6788fd6344d3e69bdc/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc8626a4922030f3729fa9cfe09feb6f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5a0ec4433e2f32fa768e1631693dbad8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/28ca2b3f11009c1b2635ccf1b78ec628/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9e27f44b3516c1397cf250e34c0545da/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/52391a1d4d3064c3ff42daf387159044/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:2:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/07574f26778da5532163f395b00e7bbc/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -112,22 +110,20 @@ MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8312474f9a6f0ba3793aed7d597ee9cf/flipper-0.54.0/AndroidManifest.xml:15:5-67
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:9:5-67
 	android:name
@@ -154,58 +150,56 @@ MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-rea
 MERGED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.4] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c5f507b68265cf3ab6d80c750dd1ea9/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b717e19f2e6a1a908c59c701fc7a5c12/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b717e19f2e6a1a908c59c701fc7a5c12/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
-MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da5c77205ee33fe70ee7179b4b02428b/soloader-0.9.0/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da5c77205ee33fe70ee7179b4b02428b/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e5250e7b6bd19dd5b6d3ecb89962c98/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e5250e7b6bd19dd5b6d3ecb89962c98/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/43f886d41c08fe4dc0bdbfdc40b61bb1/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/43f886d41c08fe4dc0bdbfdc40b61bb1/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a012ee35ff5227f2400a120cb7e165c6/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a012ee35ff5227f2400a120cb7e165c6/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/de3ae3aeb5822f60324e2f8e32ddfcfb/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/de3ae3aeb5822f60324e2f8e32ddfcfb/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d63ed68ddea7c9aebf5af7c6324c83ba/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d63ed68ddea7c9aebf5af7c6324c83ba/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da2c52bcf1417656174979d34d2e44fa/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da2c52bcf1417656174979d34d2e44fa/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/70f75c68d515864e1be2a97492ef55dd/play-services-measurement-sdk-21.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/70f75c68d515864e1be2a97492ef55dd/play-services-measurement-sdk-21.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b0213f2c3ea73f05db7fbf91270ab900/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b0213f2c3ea73f05db7fbf91270ab900/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/aba1fd20a01a75aca04172dc3cd24dd7/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/aba1fd20a01a75aca04172dc3cd24dd7/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5895c500f7c9938c69fecc1b581415ab/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5895c500f7c9938c69fecc1b581415ab/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d2f6eddaf546b0ee506217b11a11e854/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d2f6eddaf546b0ee506217b11a11e854/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/41c36304296adcad8eb97aca597f532b/play-services-measurement-base-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/41c36304296adcad8eb97aca597f532b/play-services-measurement-base-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/52391a1d4d3064c3ff42daf387159044/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/52391a1d4d3064c3ff42daf387159044/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:12:5-20:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:11:7-39
 		ADDED from /Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:11:7-39
@@ -320,12 +314,24 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayu
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b717e19f2e6a1a908c59c701fc7a5c12/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b717e19f2e6a1a908c59c701fc7a5c12/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
-MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:7:5-9:41
-MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/dbc56d750d92b0385c5a6424da124ed5/firebase-analytics-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/02615a38ba0d2e599f9e866f87c02212/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/02615a38ba0d2e599f9e866f87c02212/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9c4b4583af753f8e1b807084037d7124/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -358,56 +364,52 @@ MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/takayuki/.gradle/cache
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da5c77205ee33fe70ee7179b4b02428b/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56807a07d2f7338c8b33d5c24e98543/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56807a07d2f7338c8b33d5c24e98543/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ce7c1e2b7b44d5064cc8faf8c4b87d80/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ce7c1e2b7b44d5064cc8faf8c4b87d80/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c5da73b00b6960e4305b61d928200c2a/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c5da73b00b6960e4305b61d928200c2a/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1bc4430851a2a8a47a8d49e825eb3b94/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1bc4430851a2a8a47a8d49e825eb3b94/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e5250e7b6bd19dd5b6d3ecb89962c98/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e5250e7b6bd19dd5b6d3ecb89962c98/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/43f886d41c08fe4dc0bdbfdc40b61bb1/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/43f886d41c08fe4dc0bdbfdc40b61bb1/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a012ee35ff5227f2400a120cb7e165c6/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a012ee35ff5227f2400a120cb7e165c6/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/de3ae3aeb5822f60324e2f8e32ddfcfb/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/de3ae3aeb5822f60324e2f8e32ddfcfb/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d63ed68ddea7c9aebf5af7c6324c83ba/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d63ed68ddea7c9aebf5af7c6324c83ba/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da2c52bcf1417656174979d34d2e44fa/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da2c52bcf1417656174979d34d2e44fa/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/70f75c68d515864e1be2a97492ef55dd/play-services-measurement-sdk-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/70f75c68d515864e1be2a97492ef55dd/play-services-measurement-sdk-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b0213f2c3ea73f05db7fbf91270ab900/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b0213f2c3ea73f05db7fbf91270ab900/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/aba1fd20a01a75aca04172dc3cd24dd7/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/aba1fd20a01a75aca04172dc3cd24dd7/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/95cb69e4a792e00196971635239ed420/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/95cb69e4a792e00196971635239ed420/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5895c500f7c9938c69fecc1b581415ab/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5895c500f7c9938c69fecc1b581415ab/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d2f6eddaf546b0ee506217b11a11e854/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d2f6eddaf546b0ee506217b11a11e854/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/41c36304296adcad8eb97aca597f532b/play-services-measurement-base-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/41c36304296adcad8eb97aca597f532b/play-services-measurement-base-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/92e1ee2a763d56a2ee5e9d3b0e35c606/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/92e1ee2a763d56a2ee5e9d3b0e35c606/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/e289e635fef2f04da5467be113dfe4b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -424,40 +426,28 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takayuki/.grad
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fe426716a08ee3a0b8844fdc658bd87c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/71a34f1047e0984658f8eb4a8ab8c23b/core-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/719a016b5d66f1aa7f0c590da2257157/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/719a016b5d66f1aa7f0c590da2257157/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/60daee853bd9cd43df333f837a3c5492/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/60daee853bd9cd43df333f837a3c5492/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8759a21431d75f6788fd6344d3e69bdc/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8759a21431d75f6788fd6344d3e69bdc/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc8626a4922030f3729fa9cfe09feb6f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc8626a4922030f3729fa9cfe09feb6f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5a0ec4433e2f32fa768e1631693dbad8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5a0ec4433e2f32fa768e1631693dbad8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/28ca2b3f11009c1b2635ccf1b78ec628/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/28ca2b3f11009c1b2635ccf1b78ec628/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9e27f44b3516c1397cf250e34c0545da/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9e27f44b3516c1397cf250e34c0545da/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/52391a1d4d3064c3ff42daf387159044/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/52391a1d4d3064c3ff42daf387159044/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1f6016b8a416d69d8ee86dccefac76ad/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/66dbad1cf99be8c74b049b4dc64bd367/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/73744b55725011134b7ab549a2ee2dd4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/7e2c10217270dedf1fc8c44fecb3e9f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/07574f26778da5532163f395b00e7bbc/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -478,40 +468,40 @@ ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/
 		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8312474f9a6f0ba3793aed7d597ee9cf/flipper-0.54.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:25:5-68
 	android:name
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8fe59fb1849d653d819d5aba4b3b9459/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:24:5-79
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
 MERGED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:10:5-79
 	android:name
@@ -554,138 +544,124 @@ ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-reac
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
 	android:name
 		ADDED from [:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
-service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:26:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a53c4b4001b4aa637b731a1578e21b22/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:29:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:32:9-39:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
-MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
-meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
-	android:value
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d28a6c6d5b9fa8614d3d02d770bcd441/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
-uses-permission#com.sec.android.provider.badge.permission.READ
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:19:5-86
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:19:22-83
-uses-permission#com.sec.android.provider.badge.permission.WRITE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:20:5-87
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:20:22-84
-uses-permission#com.htc.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:23:5-81
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:23:22-78
-uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:24:5-83
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:24:22-80
-uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:27:5-88
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:27:22-85
-uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:28:5-92
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:28:22-89
-uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:31:5-84
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:31:22-81
-uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:34:5-83
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:34:22-80
-uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:37:5-91
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:37:22-88
-uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:38:5-92
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:38:22-89
-uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:39:5-93
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:39:22-90
-uses-permission#android.permission.READ_APP_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:42:5-73
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:42:22-70
-uses-permission#com.oppo.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:45:5-82
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:45:22-79
-uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:46:5-83
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:46:22-80
-uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:49:5-88
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:49:22-85
-uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
-ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:50:5-89
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0caad781a1f849c9ec6da36e1567cc36/ShortcutBadger-1.1.21/AndroidManifest.xml:50:22-86
-meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
-ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
-	android:value
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/a35a3821414f1b47d220cc871a871818/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
-service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
-	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
-	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
-meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
-	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
-	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/edbe4c4e8d71403616b877e0702a7517/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
-service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
-	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:34:13-36
 	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:35:13-73
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
-receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:33:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:45:9-52:19
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:48:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:47:13-43
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bc6f04b73c3e431365cc46954301741b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:46:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:55:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:54:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:56:13-58:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/6e2e0c029be2342f2f0d032a7d4e1b1c/firebase-messaging-23.0.6/AndroidManifest.xml:57:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b9cee8840eb2b7849d667a0a3051afe7/firebase-datatransport-18.1.5/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ecc3b202a769861924a66ed2169ae018/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/da849159054f5c1e4cdb25f7d8a8888b/transport-runtime-3.1.6/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/65dd596d4431eb669133db734689713c/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/339fccf41fbe9c98b969a8478f43c7f0/play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9492ef58683f682b359d89936d32cdeb/play-services-measurement-api-21.1.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/308d2af6775737df16f69b137f6e469a/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a489cf3b54438aa48bf541e3fb8d34/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -706,102 +682,52 @@ ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.g
 		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/477e0e831539fcb4ba8d77d5c61f2983/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/125b462760712b1e5567c66724d0fecc/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/afb530b41ccf8199cef5400ca0b35529/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/af1cd9cd325bcae04dc58ad3f35f7b7e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/d6179e180d30c551b3188d266e0df917/play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
-meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
-	android:value
-		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c6c3d4f8b9afc1fc0639d671c7563bce/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
-meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
-ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
-	android:value
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/3dfee42d4edb365e9c96cb70a50d4c5b/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ffdd533440a93666b5208c3ba01e57d3/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/26087a99ab99105fb6e803b5622c3ff2/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/876f3eec5a5817b7082e7dd944631129/play-services-measurement-impl-21.1.0/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:30:13-85
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:36:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:39:9-43:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:41:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:43:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c07c4fec1bc85aafb87b3fad622c8d92/play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/fb564d7802d95d4b68899d73b420890f/play-services-measurement-21.1.0/AndroidManifest.xml:40:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/5cf206346a200a20393567e35d5b082a/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/c516872ccb6611e7792b7cff0b151b4c/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
 activity#io.repro.android.notification.IntentHandler
 ADDED from [io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/faf3b744b7d64cb60d37c11798c8326f/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:13:9-19:20
 	android:exported
