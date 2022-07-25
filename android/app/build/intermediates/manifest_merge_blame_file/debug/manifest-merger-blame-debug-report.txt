@@ -1,0 +1,354 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sampleapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:5:5-77
+11-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+14-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+15-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+15-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+16-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+16-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+17
+18    <application
+18-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:6:5-51:19
+19        android:name="com.sampleapp.MainApplication"
+19-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:7:7-38
+20        android:allowBackup="false"
+20-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:11:7-34
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:10:7-52
+26        android:theme="@style/AppTheme"
+26-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:12:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/debug/AndroidManifest.xml:7:18-53
+28        <meta-data
+28-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:13:7-16:21
+29            android:name="io.repro.android.PushNotification.ChannelId"
+29-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:14:13-71
+30            android:value="io.repro.android.dev.default" >
+30-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:15:13-57
+31        </meta-data>
+32        <meta-data
+32-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:17:9-20:21
+33            android:name="io.repro.android.PushNotification.ChannelName"
+33-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:18:13-73
+34            android:resource="@string/app_name" >
+34-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:19:13-48
+35        </meta-data>
+36
+37        <service
+37-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:22:9-29:19
+38            android:name="com.sampleapp.MyFirebaseMessagingService"
+38-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:23:13-55
+39            android:exported="true" >
+39-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:24:13-36
+40            <intent-filter>
+40-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:26:13-28:29
+41                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+41-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:17-77
+41-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:25-75
+42            </intent-filter>
+43        </service>
+44
+45        <activity
+45-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:30:7-40:18
+46            android:name="com.sampleapp.MainActivity"
+46-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:31:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+47-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:33:9-86
+48            android:label="@string/app_name"
+48-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:32:9-41
+49            android:launchMode="singleTask"
+49-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:34:9-40
+50            android:windowSoftInputMode="adjustResize" >
+50-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:35:9-51
+51            <intent-filter>
+51-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:36:9-39:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:37:13-65
+52-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:37:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:38:13-73
+54-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:38:23-70
+55            </intent-filter>
+56        </activity>
+57
+58        <receiver
+58-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:41:7-49:20
+59            android:name="io.repro.android.ReproReceiver"
+59-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:42:13-58
+60            android:exported="true"
+60-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:43:13-36
+61            android:permission="com.google.android.c2dm.permission.SEND" >
+61-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:44:13-73
+62            <intent-filter>
+62-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:45:13-48:29
+63                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+63-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:17-81
+63-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:25-78
+64
+65                <category android:name="test-app-java" />
+65-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:47:17-58
+65-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:47:27-55
+66            </intent-filter>
+67        </receiver>
+68
+69        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+69-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:50:7-84
+69-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:50:17-81
+70
+71        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+71-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+71-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+72        <service
+72-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+73            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+73-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+74            android:exported="false" >
+74-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+75            <intent-filter>
+75-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:26:13-28:29
+76                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+76-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:17-77
+76-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:25-75
+77            </intent-filter>
+78        </service>
+79
+80        <receiver
+80-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+81            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+81-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+82            android:exported="true"
+82-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+83            android:permission="com.google.android.c2dm.permission.SEND" >
+83-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+84            <intent-filter>
+84-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+85                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+85-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:17-81
+85-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:25-78
+86            </intent-filter>
+87        </receiver>
+88
+89        <meta-data
+89-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+90            android:name="firebase_messaging_auto_init_enabled"
+90-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+91            android:value="true" />
+91-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+92        <meta-data
+92-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+93            android:name="com.google.firebase.messaging.default_notification_channel_id"
+93-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+94            android:value="" />
+94-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+95        <meta-data
+95-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+96            android:name="com.google.firebase.messaging.default_notification_color"
+96-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+97            android:resource="@color/white" />
+97-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+98        <!--
+99             FirebaseMessagingService performs security checks at runtime,
+100             but set to not exported to explicitly avoid allowing another app to call it.
+101        -->
+102        <service
+102-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+103            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+103-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+104            android:directBootAware="true"
+104-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+105            android:exported="false" >
+105-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+106            <intent-filter android:priority="-500" >
+106-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:26:13-28:29
+107                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+107-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:17-77
+107-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:27:25-75
+108            </intent-filter>
+109        </service>
+110        <service
+110-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+111            android:name="com.google.firebase.components.ComponentDiscoveryService"
+111-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+112            android:directBootAware="true"
+112-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+113            android:exported="false" >
+113-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+114            <meta-data
+114-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+115                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+115-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-messaging:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/bebb6af01ab05142cd8769bad3356c7e/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+117            <meta-data
+117-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b403f53b475397337b03a4649f850ab1/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+118                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+118-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b403f53b475397337b03a4649f850ab1/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/b403f53b475397337b03a4649f850ab1/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+121                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+121-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/cb2c46af1b59aaeb22d02f341eec81ce/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+124                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+124-->[com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/cb2c46af1b59aaeb22d02f341eec81ce/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-installations:16.3.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/cb2c46af1b59aaeb22d02f341eec81ce/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+126            <!--
+127                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+128                clients to use it as well, by defining this registrar in their own core/common library.
+129            -->
+130            <meta-data
+130-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+131                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+131-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+133        </service>
+134        <service
+134-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+135            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+135-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+136            android:exported="false" >
+136-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+137            <meta-data
+137-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+138                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+138-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+139                android:value="cct" />
+139-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ad292a9fcaf29f470c5c0b8cb3633af2/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+140        </service>
+141        <service
+141-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+142            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+142-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+143            android:exported="false"
+143-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+144            android:permission="android.permission.BIND_JOB_SERVICE" >
+144-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+145        </service>
+146
+147        <receiver
+147-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+148            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+148-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+149            android:exported="false" />
+149-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9b48e2ea66c79363589561ccb2c5f7c6/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+150
+151        <activity
+151-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+152            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+152-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+153            android:excludeFromRecents="true"
+153-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+156        <!--
+157            Service handling Google Sign-In user revocation. For apps that do not integrate with
+158            Google Sign-In, this service will never be started.
+159        -->
+160        <service
+160-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+161            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+161-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+162            android:exported="true"
+162-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+163            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+163-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+164            android:visibleToInstantApps="true" />
+164-->[com.google.android.gms:play-services-auth:19.0.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/34a1dde92c9e0842a0f104e1114883f4/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+165
+166        <receiver
+166-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+167            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+167-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+168            android:exported="true"
+168-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+169            android:permission="com.google.android.c2dm.permission.SEND" >
+169-->[com.google.firebase:firebase-iid:21.0.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/2ac81d7ce360ab554b900cae5b96612d/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+170            <intent-filter>
+170-->[:react-native-firebase_messaging] /Users/takayuki/src/repro-sdk-react-native-sample/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+171                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+171-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:17-81
+171-->/Users/takayuki/src/repro-sdk-react-native-sample/android/app/src/main/AndroidManifest.xml:46:25-78
+172            </intent-filter>
+173        </receiver>
+174
+175        <activity
+175-->[com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0b6249500b8009a9eb57f214c32dfafc/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+176            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+176-->[com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0b6249500b8009a9eb57f214c32dfafc/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+177            android:exported="false"
+177-->[com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0b6249500b8009a9eb57f214c32dfafc/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+178-->[com.google.android.gms:play-services-base:17.1.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/0b6249500b8009a9eb57f214c32dfafc/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+179
+180        <provider
+180-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+181            android:name="com.google.firebase.provider.FirebaseInitProvider"
+181-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+182            android:authorities="com.sampleapp.firebaseinitprovider"
+182-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+183            android:directBootAware="true"
+183-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+184            android:exported="false"
+184-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+185            android:initOrder="100" />
+185-->[com.google.firebase:firebase-common:19.5.0] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/8bdba4ffdfac6ad5a13f527f85165660/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+186
+187        <meta-data
+187-->[com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9f7fba878e61c76f1692713d4330f8d0/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+188            android:name="com.google.android.gms.version"
+188-->[com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9f7fba878e61c76f1692713d4330f8d0/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+189            android:value="@integer/google_play_services_version" />
+189-->[com.google.android.gms:play-services-basement:17.1.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/9f7fba878e61c76f1692713d4330f8d0/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+190
+191        <activity
+191-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:13:9-19:20
+192            android:name="io.repro.android.notification.IntentHandler"
+192-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:14:13-71
+193            android:exported="false" >
+193-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:15:13-37
+194            <intent-filter>
+194-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:16:13-18:29
+195                <action android:name="io.repro.android.notification.IntentHandler.START_ACTIVITY" />
+195-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:17-101
+195-->[io.repro:repro-android-sdk:5.5.1] /Users/takayuki/.gradle/caches/transforms-2/files-2.1/ddfaee499f41794c98b9bd959470a04b/jetified-repro-android-sdk-5.5.1/AndroidManifest.xml:17:25-98
+196            </intent-filter>
+197        </activity>
+198    </application>
+199
+200</manifest>
