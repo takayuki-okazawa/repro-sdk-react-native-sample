@@ -11,8 +11,6 @@ import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 import io.repro.android.Repro;
-// import io.invertase.firebase.messaging.RNFirebaseMessagingPackage;
-// import io.invertase.firebase.notifications.RNFirebaseNotificationsPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -27,11 +25,6 @@ public class MainApplication extends Application implements ReactApplication {
         protected List<ReactPackage> getPackages() {
           @SuppressWarnings("UnnecessaryLocalVariable")
           List<ReactPackage> packages = new PackageList(this).getPackages();
-          // Packages that cannot be autolinked yet can be added manually here, for example:
-          // packages.add(new MyReactNativePackage());
-          // packages.add(new ModuleRegistryAdapter(mModuleRegistryProvider));
-          // packages.add(new RNFirebaseMessagingPackage()); // Cloud Messagingを初期化
-          // packages.add(new RNFirebaseNotificationsPackage()); // Notificationsを初期化
           return packages;
         }
 
@@ -52,7 +45,7 @@ public class MainApplication extends Application implements ReactApplication {
     SoLoader.init(this, /* native exopackage */ false);
     initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
 
-    // Setup Repro
+    // Addd Setup Repro
     Repro.setup(this, "ba78e49e-f586-47d6-8864-bec4d084f8bf");
     Repro.enablePushNotification();
   }

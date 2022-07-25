@@ -77,21 +77,22 @@ console.log('token=' + JSON.stringify(token));
 //   // トークンリフレッシュ時の処理
 // });
 
-// 起動中のメッセージ受信
-// const unsubscribeMessage = messaging().onMessage((
-//   message: messaging.FirebaseMessagingTypes.RemoteMessage
-// ) => {
-//   console.log('起動中メッセージ受信コールバック')
-// });
+const unsubscribeMessage = messaging().onMessage((
+  message
+) => {
+  console.log('起動中メッセージ受信コールバック : ' + JSON.stringify(message))//呼ばれる
+});
 
 // プッシュ通知をタップしてバックグラウンドから復帰した際の処理
-// const unsubscribeNotificationOpenedApp = messaging().onNotificationOpenedApp((
-//   message: FirebaseMessagingTypes.RemoteMessage
-// ) => {
-//   console.log('バックグラウンド中メッセージ受信コールバック')
-// });
+const unsubscribeNotificationOpenedApp = messaging().onNotificationOpenedApp((
+  message
+) => {
+  console.log('バックグラウンド中メッセージ受信コールバック')
+});
 
-//setBackgroundMessageHandler が動作しないのを確かめる？
+messaging().setBackgroundMessageHandler(async remoteMessage => {
+  console.log('ここがsetBackgroundMessageHandlerです', remoteMessage);
+});
 
 /************************************
  * React Ntive Test END

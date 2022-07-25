@@ -8,7 +8,7 @@ import {name as appName} from './app.json';
 
 //Add
 messaging().setBackgroundMessageHandler(async remoteMessage => {
-    console.log('Message handled in the background!', remoteMessage);
-  });
+    console.log('ここがsetBackgroundMessageHandlerです2', remoteMessage);
+});
 
 AppRegistry.registerComponent(appName, () => App);

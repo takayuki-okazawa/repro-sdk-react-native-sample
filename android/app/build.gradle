@@ -1,5 +1,5 @@
 apply plugin: "com.android.application"
-apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.gms.google-services'//Add
 import com.android.build.OutputFile
 
 /**
@@ -212,8 +212,8 @@ dependencies {
     implementation "com.google.firebase:firebase-messaging:20.0.0"//Add
     implementation platform('com.google.firebase:firebase-bom:30.3.0')//Add
     implementation 'io.repro:repro-android-sdk'//Add
-    // implementation 'react-native-repro'//Add
     implementation 'com.google.gms:google-services:4.3.10'//Add
+    implementation("com.google.firebase:firebase-iid")//Add
 }
 
 // Run this once to be able to run the application with BUCK
