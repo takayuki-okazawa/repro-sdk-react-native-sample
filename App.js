@@ -6,16 +6,6 @@
  * @flow strict-local
  */
 
-////////////////////////////////////// START
-import React from 'react';
-import Repro from 'react-native-repro';
-import messaging from '@react-native-firebase/messaging';
-// import messaging, { 
-//   FirebaseMessagingTypes.RemoteMessage 
-// } from '@react-native-firebase/messaging';
-
-////////////////////////////////////// END
-
 import {
   SafeAreaView,
   StyleSheet,
@@ -33,46 +23,70 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-const App: () => React$Node = () => {
 
-  ////////////////////////////// START
-  Repro.track("user review hoge", { rating: 3 })
-  Repro.getDeviceID((error, deviceID) => {
-    console.log('deviceID=' + deviceID)
+/************************************
+ * React Ntive Test START
+ ************************************/
+import React from 'react';
+import Repro from 'react-native-repro';
+import firebase from '@react-native-firebase/app';
+import messaging from '@react-native-firebase/messaging';
+// import messaging, { 
+//   FirebaseMessagingTypes.RemoteMessage 
+// } from '@react-native-firebase/messaging';
+
+console.log('Hello hoge');
+Repro.track("user review hoge", { rating: 3 })
+Repro.getDeviceID((error, deviceID) => {
+  console.log('deviceID=' + deviceID)
+});
+
+if (firebase.apps.length === 0) {
+  const instance = firebase.initializeApp({
+    appId: '1:816137118864:android:91403311a77da0b6f12415',
+    messagingSenderId: '816137118864',
+    projectId: 'test-app-android-4c9bf',
+    storageBucket: '',
+    apiKey: 'repro-react-native-sample',
+    databaseURL: ''
   });
-  
-  //パーミッションリクエスト
-  // const authStatus = messaging().requestPermission();//await
-  // const enabled =
-  //   authStatus === messaging.AuthorizationStatus.AUTHORIZED ||
-  //   authStatus === messaging.AuthorizationStatus.PROVISIONAL;
-  // if(enabled) console.log("認証OK"); 
+}
+const authStatus = messaging().requestPermission();//await
+const enabled =
+  authStatus === messaging.AuthorizationStatus.AUTHORIZED ||
+  authStatus === messaging.AuthorizationStatus.PROVISIONAL;
+if(enabled) console.log("認証OK"); 
 
-  //トークンの取得
-  // const token: string = messaging().getToken();//await
+//トークンの取得
+const token: string = messaging().getToken();//await
+console.log('token=' + JSON.stringify(token));
 
-  //トークンリフレッシュ
-  // messaging().onTokenRefresh((token: string) => {
-  //   // トークンリフレッシュ時の処理
-  // });
+//トークンリフレッシュ
+// messaging().onTokenRefresh((token: string) => {
+//   // トークンリフレッシュ時の処理
+// });
 
-  // 起動中のメッセージ受信
-  // const unsubscribeMessage = messaging().onMessage((
-  //   message: messaging.FirebaseMessagingTypes.RemoteMessage
-  // ) => {
-  //   console.log('起動中メッセージ受信コールバック')
-  // });
+// 起動中のメッセージ受信
+// const unsubscribeMessage = messaging().onMessage((
+//   message: messaging.FirebaseMessagingTypes.RemoteMessage
+// ) => {
+//   console.log('起動中メッセージ受信コールバック')
+// });
 
-  // プッシュ通知をタップしてバックグラウンドから復帰した際の処理
-  // const unsubscribeNotificationOpenedApp = messaging().onNotificationOpenedApp((
-  //   message: FirebaseMessagingTypes.RemoteMessage
-  // ) => {
-  //   console.log('バックグラウンド中メッセージ受信コールバック')
-  // });
+// プッシュ通知をタップしてバックグラウンドから復帰した際の処理
+// const unsubscribeNotificationOpenedApp = messaging().onNotificationOpenedApp((
+//   message: FirebaseMessagingTypes.RemoteMessage
+// ) => {
+//   console.log('バックグラウンド中メッセージ受信コールバック')
+// });
 
-  //setBackgroundMessageHandler が動作しないのを確かめる？
+//setBackgroundMessageHandler が動作しないのを確かめる？
 
-  ////////////////////////////// END
+/************************************
+ * React Ntive Test END
+ ************************************/
+
+const App: () => React$Node = () => {
   return (
     <>
       <StatusBar barStyle="dark-content" />
