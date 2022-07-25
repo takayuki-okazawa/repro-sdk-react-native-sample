@@ -27,10 +27,13 @@ import {
 /************************************
  * React Ntive Test START
  ************************************/
-import React from 'react';
+// import React from 'react';
 import Repro from 'react-native-repro';
 import firebase from '@react-native-firebase/app';
 import messaging from '@react-native-firebase/messaging';
+
+import React, { useEffect } from 'react';
+import { Alert } from 'react-native';
 // import messaging, { 
 //   FirebaseMessagingTypes.RemoteMessage 
 // } from '@react-native-firebase/messaging';
@@ -95,6 +98,13 @@ console.log('token=' + JSON.stringify(token));
  ************************************/
 
 const App: () => React$Node = () => {
+  useEffect(() => {
+    const unsubscribe = messaging().onMessage(async remoteMessage => {
+      Alert.alert('A new FCM message arrived!', JSON.stringify(remoteMessage));
+    });
+
+    return unsubscribe;
+  }, []);
   return (
     <>
       <StatusBar barStyle="dark-content" />
